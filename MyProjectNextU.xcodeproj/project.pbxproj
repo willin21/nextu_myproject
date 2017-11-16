@@ -300,6 +300,7 @@
 				27A8FC551FBCEB3700DF0CA0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
